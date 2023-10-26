@@ -1,7 +1,8 @@
 # Sparks-Task-5
 Project: Exploratory Data Analysis on Dataset: 'Indian Premier League'
 
-1. Undertook an in-depth analysis of a sports-related dataset, utilizing a range of Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, to conduct Exploratory Data Analysis (EDA). This involved a comprehensive examination of the dataset, accompanied by insightful data visualizations to uncover underlying patterns and trends.              
+1. Undertook an in-depth analysis of a sports-related dataset, utilizing a range of Python libraries, including NumPy, Pandas, Matplotlib, and Seaborn, to conduct Exploratory Data Analysis (EDA). This involved a comprehensive examination of the dataset, accompanied by insightful data visualizations to uncover underlying patterns and trends.
+          
 Eg: Affect of Toss on match,     
 What is more effective for a team to bat or field first,       
 Top scorers and Bowlers in their respective seasons,       

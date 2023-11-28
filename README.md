@@ -8,5 +8,5 @@ What is more effective for a team to bat or field first,
 Top scorers and Bowlers in their respective seasons,       
 Impact of top players on the match etc.             
 
-3. Extracted valuable insights from the EDA, which played a pivotal role in optimizing strategies and decision-making within the realm of sports. This project contributed to enhanced performance, resource allocation, and overall competitiveness by identifying critical factors and trends within the sports dataset, leading to data-driven improvements and informed choices.
+2. Extracted valuable insights from the EDA, which played a pivotal role in optimizing strategies and decision-making within the realm of sports. This project contributed to enhanced performance, resource allocation, and overall competitiveness by identifying critical factors and trends within the sports dataset, leading to data-driven improvements and informed choices.
 
